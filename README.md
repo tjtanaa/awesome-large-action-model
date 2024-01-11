@@ -15,6 +15,7 @@ Large Action Model: Models that could help gets things done.
 
 3. Empowering LLM to use Smartphone for Intelligent Task Automation [Project](https://autodroid-sys.github.io/) [Paper](https://arxiv.org/abs/2308.15272) [Github](https://github.com/MobileLLM/AutoDroid)
 
+4. MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use [Paper](https://arxiv.org/abs/2310.03128) [Github](https://github.com/HowieHwong/MetaTool?tab=readme-ov-file)
 
 # Prompt-enabled Large Action Model:
 1. Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models [Paper](https://arxiv.org/pdf/2308.00675.pdf)
