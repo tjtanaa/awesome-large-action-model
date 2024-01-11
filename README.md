@@ -17,5 +17,5 @@ Large Action Model: Models that could help gets things done.
 
 4. MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use [Paper](https://arxiv.org/abs/2310.03128) [Github](https://github.com/HowieHwong/MetaTool?tab=readme-ov-file)
 
-# Prompt-enabled Large Action Model:
-1. Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models [Paper](https://arxiv.org/pdf/2308.00675.pdf)
+5. T-Eval: Evaluating the Tool Utilization Capability Step by Step [Project](https://open-compass.github.io/T-Eval/) [Paper](https://arxiv.org/abs/2312.14033) [Github](https://github.com/open-compass/T-Eval) [Dataset](https://huggingface.co/datasets/lovesnowbest/T-Eval) [Leaderboard](https://open-compass.github.io/T-Eval/leaderboard.html)
+
