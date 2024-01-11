@@ -11,3 +11,4 @@ Large Action Model: Models that could help gets things done.
 1. Gorilla: Large Language Model Connected with Massive APIs [Project](https://gorilla.cs.berkeley.edu/blogs/4_open_functions.html) [Github](https://github.com/ShishirPatil/gorilla?tab=readme-ov-file) [Paper](https://github.com/ShishirPatil/gorilla/tree/main/openfunctions)
 ![image](https://github.com/tjtanaa/awesome-large-action-model/assets/29171856/ea3054c9-587b-4600-a9af-06afcc1f650f)
 
+2. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Paper](https://arxiv.org/pdf/2307.16789.pdf) [Github](https://github.com/OpenBMB/ToolBench)
