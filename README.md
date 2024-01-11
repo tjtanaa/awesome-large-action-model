@@ -14,3 +14,7 @@ Large Action Model: Models that could help gets things done.
 2. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [Paper](https://arxiv.org/pdf/2307.16789.pdf) [Github](https://github.com/OpenBMB/ToolBench) [HF Model v1](https://huggingface.co/ToolBench/ToolLLaMA-2-7b-v1) [HF Model v2](https://huggingface.co/ToolBench/ToolLLaMA-2-7b-v2)
 
 3. Empowering LLM to use Smartphone for Intelligent Task Automation [Project](https://autodroid-sys.github.io/) [Paper](https://arxiv.org/abs/2308.15272) [Github](https://github.com/MobileLLM/AutoDroid)
+
+
+# Prompt-enabled Large Action Model:
+1. Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models [Paper](https://arxiv.org/pdf/2308.00675.pdf)
