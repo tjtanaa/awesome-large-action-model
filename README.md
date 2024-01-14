@@ -21,4 +21,4 @@ Large Action Model: Models that could help gets things done.
 
 # Hardware
 1. [rabbit r1](https://www.rabbit.tech/): a personalized operating system through a natural language interface designed by rabbit.tech. Announced at Jan 9,2024 with price $199, no subscription. [30,000 sold in 3 days](https://twitter.com/jessechenglyu/status/1746256834783326544).
-   
+   ![image](https://pbs.twimg.com/media/GDvvDxZbkAAu7QG?format=jpg&name=small)
