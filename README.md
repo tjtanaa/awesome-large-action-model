@@ -19,3 +19,6 @@ Large Action Model: Models that could help gets things done.
 
 5. T-Eval: Evaluating the Tool Utilization Capability Step by Step [Project](https://open-compass.github.io/T-Eval/) [Paper](https://arxiv.org/abs/2312.14033) [Github](https://github.com/open-compass/T-Eval) [Dataset](https://huggingface.co/datasets/lovesnowbest/T-Eval) [Leaderboard](https://open-compass.github.io/T-Eval/leaderboard.html)
 
+# Hardware
+1. [rabbit r1](https://www.rabbit.tech/): a personalized operating system through a natural language interface designed by rabbit.tech. Announced at Jan 9,2024 with price $199, no subscription. [30,000 sold in 3 days](https://twitter.com/jessechenglyu/status/1746256834783326544).
+   ![image](https://pbs.twimg.com/media/GDvvDxZbkAAu7QG?format=jpg&name=small)
